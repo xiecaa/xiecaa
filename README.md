@@ -14,9 +14,7 @@
   <a href="https://github.com/xiecaa/xiebot"><img width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=xiecaa&repo=xiebot&theme=chartreuse-dark"></a>
 </p>
 <p align="center">
-
   <a href="https://github.com/xiecaa/xiebotV2"><img width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=xiecaa&repo=xiebotV2&theme=chartreuse-dark"></a>
-
 </p>
 <h3 align="center">
   <a href="https://www.instagram.com/xiecaa_" target="blank">Support Me!</a>

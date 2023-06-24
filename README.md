@@ -2,7 +2,7 @@
   <img width="1000" height="400" src="https://i.ibb.co/xM9j6sZ/xieee.jpg">
 </p>
 <h1 align="center">
-  <b>I'Am Xie<b> <a href="https://wa.me/6283815956151" target="blank">XieCaa</a> Contacts Me
+  <b>I'Am XC XieCaa<b>
 </h1>
 <p align="center">
   <img width="600" height="220" src="https://github-readme-stats.vercel.app/api?username=xiecaa&show_icons=true&theme=chartreuse-dark&locale=id">
